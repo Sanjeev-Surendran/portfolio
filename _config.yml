@@ -1,6 +1,16 @@
-title: Minimal theme
-logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Sanjeev Surendran </p>
+logo: /assets/img/pic.jpg
+description:
+  <p align="center">
+  <a href="pdf/Resume-Sanjeev-Surendran.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sanjeev-s/">LinkedIn</a> |
+  <a href="https://github.com/Sanjeev-Surendran/">GitHub</a>
+ 
+  <br>  
+  Staff Engineer with 7 years of experience in DSP algorithms and embedded multimedia 
+  systems. Adept in optimization of DSP code for various processors and responsible in 
+  delivery of endowed final product. Expert in developing audio algorithms and 
+  Floating-point to Fixed-point conversion.
+  <br>
+  </p>
 theme: jekyll-theme-minimal
